@@ -1,0 +1,10 @@
+.main{
+    background-color: #f8f9fa!important;
+    height: 40vh;
+    width: 100%;
+    padding: 20vh 0 10vh;
+}
+
+.con:hover {
+    cursor: pointer;
+  }
